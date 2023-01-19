@@ -1,2 +1,2 @@
 # sample-repo
-変更
+update 2023.1.19
